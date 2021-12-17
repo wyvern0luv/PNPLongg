@@ -1,0 +1,167 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.all{
+
+}
+.hea{
+    background-color: whitesmoke;
+} 
+.cou{
+    margin: 0 auto;
+    padding: 20px 50px;
+} 
+.L{
+    width: 30%;
+    text-align: left;
+    display: inline-block;
+    vertical-align: middle;
+}
+.L a{
+    color: black;
+    font-size: 32px;
+    text-decoration: none;
+}
+.h{
+    vertical-align: middle;
+    text-align: right;
+    width: 69%;
+    display: inline-block;
+}
+.h li {
+    display: inline-block;
+    margin-left: 20px;
+}
+.h li a {
+    text-decoration: none;
+    color: black;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+}
+.main1{
+    background: black;
+    padding: 20px;
+    text-align: center;
+}
+.s1{
+    text-align: center;
+    display: inline-block;
+}
+.note{
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 50px;
+}
+.tcam{
+    display: inline-block;
+    text-align: left;
+    vertical-align: middle;
+}
+.main2{
+    padding: 20px;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+.s2{
+    text-align: center;
+    display: inline-block;
+}
+.a{
+    display: inline-block;
+    padding: 20px;}
+h1{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+.main3{
+    padding: 20px;
+    background-color: #292929;
+    text-align: center;
+}
+.s3{
+    text-align: center;
+    display: inline-block;
+}
+.me{
+    display: inline-block;
+    vertical-align: middle;
+    padding: 50px;
+}
+.ame{
+    display: inline-block;
+    text-align: right;
+    vertical-align: middle;
+    color: white;
+    padding: 50px;
+}
+.main4{
+    padding: 20px;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+.s4{
+    text-align: center;
+    display: inline-block;}
+.b{
+    width: 300px;
+    height: 350px;
+    background-color: white;
+    display: inline-block;
+    margin: 10px;
+}
+.main5{
+    padding: 20px;
+    background-color: black;
+}
+.s5{
+    text-align: center;
+}
+.in3{
+    text-align: center;
+}
+.in4 li{
+    padding: 20px;
+    display: inline-block;
+}
+.in4{
+    display: inline-block;
+}
+.fe{
+    text-align: center;
+    background: black;
+}
+.end{
+    vertical-align: middle;
+    display: inline-block;
+}
+.end li {
+    display: inline-block;
+}
+.end li a {
+    text-decoration: none;
+    color: white;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    padding: 10px;
+}
+.end2{
+    color: white;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    padding: 10px;
+    text-align: center;
+}
+.last{
+    background-color: black;
+    padding:  24px ;
+}
+*{
+    padding: 0;
+}
